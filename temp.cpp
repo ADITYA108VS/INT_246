@@ -5,7 +5,7 @@ int main()
 	int t;
 	cin>>t;
 	while(t-){
-		cout<<"hulia"<<endl;
+		cout<<"boomba"<<endl;
 		cout<<t<<endl;}
 }
 
